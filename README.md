@@ -1,5 +1,7 @@
 # Integrating Firebase 3 with AngularFire2 into Angular2 & Ionic2
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/672f62a388844d3392eb0809d49937f5)](https://www.codacy.com/app/ciekawy/ionic2-angularfire-login?utm_source=github.com&utm_medium=referral&utm_content=ciekawy/ionic2-angularfire-login&utm_campaign=badger)
+
 ##Install
 ```
 npm install
